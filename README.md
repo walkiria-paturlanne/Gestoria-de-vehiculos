@@ -3,7 +3,7 @@ Segundo proyecto subido, programa de 4 interfaces gráficas que interactúan ent
 
 ![Pantalla Principal Gestoría](https://raw.github.com/walkiria-paturlanne/Gestoria-de-vehiculos/master/imagenes/Captura%20Gestoría%20recortada.PNG)
 
-![Pantalla Motocicleta](https://raw.github.com/walkiria-paturlanne/Gestoria-de-vehiculos/master/imagenes/Captura%20Gestoria%20Motocicleta recortada.PNG)
+![Pantalla Motocicleta](https://raw.github.com/walkiria-paturlanne/Gestoria-de-vehiculos/master/imagenes/Captura%20Gestoria%20Motocicleta%20recortada.PNG)
 
 ![Pantalla Camion](https://raw.github.com/walkiria-paturlanne/Gestoria-de-vehiculos/master/imagenes/Captura%20Gestoria%20Camion%20recortada.PNG)
 

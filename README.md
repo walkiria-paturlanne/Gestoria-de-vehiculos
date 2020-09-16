@@ -1,6 +1,7 @@
 # Gestoria-de-vehiculos
-Segundo proyecto subido, programa de 4 interfaces gráficas que interactúan entre sí mediante los datos ingresados por el usuario
-Interfaces gráficas creadas con Java Swing. 
+Segundo proyecto subido, programa de 4 interfaces gráficas que interactúan entre sí mediante los datos ingresados por el usuario.
+Interfaces gráficas creadas con Java Swing.
+IDE utilizada Apache Netbeans 12.0.
 
 ![Pantalla Principal Gestoría](https://raw.github.com/walkiria-paturlanne/Gestoria-de-vehiculos/master/imagenes/Captura%20Gestoría%20recortada.png)
 
